@@ -1,0 +1,4 @@
+<types>
+	<type id="2L40" priority="75" numLanes="2" speed="40"/>
+	<type id="2L10" priority="75" numLanes="2" speed="10"/>	
+</types>
